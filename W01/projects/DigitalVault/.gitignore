@@ -17,6 +17,7 @@ hc_output/
 *.smsg
 *.txt
 *.json
+*.qdf
 
 # Questa/ModelSim junk
 transcript
