@@ -32,4 +32,4 @@ Once the main installation is complete, the **Driver Installation Wizard** will 
 
 ### Step 5: Creating Your First Project
 For a step-by-step guide on starting your first RTL project, refer to the following PDF in the resources folder:
-📄 [QuartusI-MODELSIMI-BriefTutorial.pdf](./)
+📄 [QuartusI-MODELSIMI-BriefTutorial.pdf](./QuartusI-MODELSIMI-BriefTutorial.pdf)
