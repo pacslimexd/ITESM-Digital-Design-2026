@@ -1,0 +1,27 @@
+# Quartus temporary and output files
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+hc_output/
+
+# Common Quartus junk
+*.rpt
+*.summary
+*.jdi
+*.done
+*.pin
+*.qws
+*.bak
+*.smsg
+*.txt
+*.json
+*.qdf
+*.qpf
+*.qsf
+
+# Questa/ModelSim junk
+transcript
+vsim.wlf
+work/
