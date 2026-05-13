@@ -5,6 +5,22 @@ This repository contains all theoretical materials, installation guides, and the
 
 ---
 
+## Syllabus
+
+- **W01:** FPGA/PLD basics, Verilog data types, and the first exercise on Digital Vault.
+- **W02:** Multiplexers, decoders, ALU basics, timing, and Hamming code.
+- **W03:** Sequential logic, shift registers, CDC, dividers, and FSMs.
+- **W04:** SPI, I2C, and UART communication basics.
+- **W05:** UART Full Module design, GitHub Introduction for version control 
+
+## Weekly Notes
+
+- [W01 README](./W01/README.md)
+- [W02 README](./W02/README.md)
+- [W03 README](./W03/README.md)
+- [W04 README](./W04/README.md)
+- [W05 README](./W05/README.md)
+
 ## 📂 Repository Structure
 
 * **`/resources`**: Contains critical technical documentation and guides:

@@ -45,7 +45,7 @@
 
 ---
 
-## DE10-Lite — Key Specs
+## DE10-Lite — Specs
 
 - **Device:** Intel MAX 10 — `10M50DAF484C7G`
 - **Logic Elements:** 50,000 LEs
