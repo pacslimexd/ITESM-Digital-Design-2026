@@ -20,6 +20,8 @@ qdb/
 *.txt
 *.json
 *.qdf
+*.qpf
+*.qsf
 
 # Questa/ModelSim junk
 transcript
